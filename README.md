@@ -38,5 +38,5 @@ I [AnjiBarik], love to write code, create new projects and solve complex problem
 
 ### :book: Quote of the day:
 <div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical" alt="Quote of the day"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the day"/>
 </div>
