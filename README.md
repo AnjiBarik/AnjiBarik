@@ -11,7 +11,7 @@
 
 ### :man_technologist: About myself:
 
-I [AnjiBarik], love to write code, create new projects and solve complex problems.
+I AnjiBarik, love to write code, create new projects and solve complex problems.
 - :zap: I work with: JavaScript, Python
 - 🌱 Learning new technologies: Docker, Kubernetes
 - 💼 freelancer
@@ -21,6 +21,7 @@ I [AnjiBarik], love to write code, create new projects and solve complex problem
 ### :hammer_and_wrench: Languages ​​and tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
