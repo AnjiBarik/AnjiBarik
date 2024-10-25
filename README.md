@@ -41,9 +41,6 @@ I AnjiBarik, love to write code, create new projects and solve complex problems.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AnjiBarik&theme=transparent&hide_border=true&hide_current_streak=true" width="400" height="200" alt="streak graph" style="display: inline-block; margin-left: 10px;" />
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnjiBarik/AnjiBarik/refs/heads/main/profile-3d-contrib/info.svg" alt="Contribution" width="600" />
-</p>
 ---
 
 ### :book: Quote of the day:
