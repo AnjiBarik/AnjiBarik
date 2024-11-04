@@ -22,19 +22,20 @@ I AnjiBarik, love to write code, create new projects and solve complex problems.
 
 Hi there! My name is Anji, and I’m the fluffy assistant of my owner, who thinks he can become a programmer. He’s got big dreams, but let’s take a closer look at what’s really happening here! 😹
 
-<img src="https://github.com/AnjiBarik/images/raw/main/starcat.png" style="height: 200px; width: auto; float: left; margin-right: 15px;" />
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://github.com/AnjiBarik/images/raw/main/starcat.png" style="height: 200px; width: auto; margin-right: 15px;" />
+    <p>This is his idea of programming:</p>
+</div>
 
-This is his idea of programming:
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://github.com/AnjiBarik/images/raw/main/coding.png" style="height: 200px; width: auto; margin-right: 15px;" />
+    <p>And this is what it <em>actually</em> looks like:</p>
+</div>
 
-<img src="https://github.com/AnjiBarik/images/raw/main/coding.png" style="height: 200px; width: auto; float: left; margin-right: 15px;" />
-
-And this is what it *actually* looks like:
-
-<img src="https://github.com/AnjiBarik/images/raw/main/mi.png" style="height: 200px; width: auto; float: left; margin-right: 15px;" />
-
-Finally, here’s his “deployment”:
-
-<img src="https://github.com/AnjiBarik/images/raw/main/deploy.png" style="height: 300px; width: auto; display: block; margin: 0 auto; filter: hue-rotate(0deg); animation: hueRotation 2s infinite alternate;" />
+<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+    <img src="https://github.com/AnjiBarik/images/raw/main/deploy.png" style="height: 300px; width: auto; filter: hue-rotate(0deg); animation: hueRotation 3s infinite alternate;" />
+    <p style="text-align: center;">Finally, here’s his “deployment”:</p>
+</div>
 
 <style>
 @keyframes hueRotation {
@@ -42,6 +43,7 @@ Finally, here’s his “deployment”:
     100% { filter: hue-rotate(180deg); }
 }
 </style>
+
 
 ---
 
