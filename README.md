@@ -22,30 +22,28 @@ I AnjiBarik, love to write code, create new projects and solve complex problems.
 
 Hi there! My name is Anji, and I’m the fluffy assistant of my owner, who thinks he can become a programmer. He’s got big dreams, but let’s take a closer look at what’s really happening here! 😹
 
-<table>
-    <tr>
-        <td style="vertical-align: top;">
-            <img src="https://github.com/AnjiBarik/images/raw/main/starcat.png" alt="Anji the Cat" style="height: 200px; width: auto; margin-right: 15px;" />
-        </td>
-        <td style="vertical-align: top;">
-            <p>This is his idea of programming:</p>
-        </td>
-    </tr>
-    <tr>
-        <td style="vertical-align: top;">
-            <img src="https://github.com/AnjiBarik/images/raw/main/coding.png" alt="Coding" style="height: 200px; width: auto; margin-right: 15px;" />
-        </td>
-        <td style="vertical-align: top;">
-            <p>And this is what it <em>actually</em> looks like:</p>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <img src="https://github.com/AnjiBarik/images/raw/main/deploy.png" alt="Deployment" style="height: 300px; width: auto;" />
-            <p>Finally, here’s his “deployment”:</p>
-        </td>
-    </tr>
-</table>
+<div style="overflow: hidden;">
+    <img src="https://github.com/AnjiBarik/images/raw/main/starcat.png" alt="Anji the Cat" style="height: 200px; width: auto; float: left; margin-right: 15px;" />
+    <p>This is his idea of programming:</p>
+</div>
+
+<div style="overflow: hidden; clear: both;">
+    <img src="https://github.com/AnjiBarik/images/raw/main/coding.png" alt="Coding" style="height: 200px; width: auto; float: left; margin-right: 15px;" />
+    <p>And this is what it <em>actually</em> looks like:</p>
+</div>
+
+<div style="text-align: center; clear: both;">
+    <img src="https://github.com/AnjiBarik/images/raw/main/deploy.png" alt="Deployment" style="height: 300px; width: auto; animation: hueRotation 3s infinite alternate;" />
+    <p>Finally, here’s his “deployment”:</p>
+</div>
+
+<style>
+@keyframes hueRotation {
+    0% { filter: hue-rotate(-180deg); }
+    100% { filter: hue-rotate(180deg); }
+}
+</style>
+
 
 
 
