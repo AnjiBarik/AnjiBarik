@@ -22,30 +22,20 @@ I AnjiBarik, love to write code, create new projects and solve complex problems.
 
 Hi there! My name is Anji, and I’m the fluffy assistant of my owner, who thinks he can become a programmer. He’s got big dreams, but let’s take a closer look at what’s really happening here! 😹
 
-<table>
-    <tr>
-        <td>
-            <img src="https://github.com/AnjiBarik/images/raw/main/starcat.png" alt="Anji the Cat" style="height: 200px; width: auto;" />
-        </td>
-        <td>
-            <p>This is his idea of programming:</p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github.com/AnjiBarik/images/raw/main/coding.png" alt="Coding" style="height: 200px; width: auto;" />
-        </td>
-        <td>
-            <p>And this is what it <em>actually</em> looks like:</p>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <img src="https://github.com/AnjiBarik/images/raw/main/deploy.png" alt="Deployment" style="height: 300px; width: auto;" />
-            <p>Finally, here’s his “deployment”:</p>
-        </td>
-    </tr>
-</table>
+| <img src="https://github.com/AnjiBarik/images/raw/main/starcat.png" style="height: 200px; width: auto;" /> | **This is his idea of programming:** |
+| --- | --- |
+| <img src="https://github.com/AnjiBarik/images/raw/main/coding.png" style="height: 200px; width: auto;" /> | **And this is what it *actually* looks like:** |
+
+---
+
+**Finally, here’s his “deployment”:**
+
+<p align="center">
+  <img src="https://github.com/AnjiBarik/images/raw/main/deploy.png" width="300px" />
+</p>
+
+> **Note**: To see the animation, you can view it in a local HTML preview or deploy this README on a website with CSS support.
+
 
 
 
