@@ -34,10 +34,20 @@ Hi there! My name is Anji, and I’m the fluffy assistant of my owner, who think
 
 ### Finally, here’s his “deployment”:
 
-<img src="https://github.com/AnjiBarik/images/raw/main/deploy.png" style="height: 200px; width: auto; float: left; margin-right: 15px;" />
+<img src="https://github.com/AnjiBarik/images/raw/main/deploy.png" style="height: 300px; width: auto; display: block; margin: 0 auto; filter: hue-rotate(0deg); animation: hueRotation 2s infinite alternate;" />
 
-
+<style>
+@keyframes hueRotation {
+    0% {
+        filter: hue-rotate(-180deg);
+    }
+    100% {
+        filter: hue-rotate(180deg);
+    }
+}
+</style>
 ---
+
 ### :hammer_and_wrench: Languages ​​and tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
