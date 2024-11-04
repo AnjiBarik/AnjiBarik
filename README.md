@@ -17,7 +17,23 @@ I AnjiBarik, love to write code, create new projects and solve complex problems.
 - 💼 freelancer
 
 ---
+# Meet Anji the Cat 🐾
 
+Hi there! My name is Anji, and I’m the fluffy assistant of my owner, who thinks he can become a programmer. He’s got big dreams, but let’s take a closer look at what’s really happening here! 😹
+
+### This is his idea of programming:
+
+![Coding in his imagination](https://github.com/AnjiBarik/images/raw/main/coding.png)
+
+### And this is what it *actually* looks like:
+
+![The reality of coding](https://github.com/AnjiBarik/images/raw/main/mi.png)
+
+### Finally, here’s his “deployment”:
+
+![Deployment reality](https://github.com/AnjiBarik/images/raw/main/deploy.png)
+
+---
 ### :hammer_and_wrench: Languages ​​and tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
