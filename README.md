@@ -21,6 +21,12 @@ I AnjiBarik, love to write code, create new projects and solve complex problems.
 
 Hi there! My name is Anji, and I’m the fluffy assistant of my owner, who thinks he can become a programmer. He’s got big dreams, but let’s take a closer look at what’s really happening here! 😹
 
+<div style="float: left; margin-right: 15px;">
+  <img src="https://github.com/AnjiBarik/images/raw/main/starcat.png" alt="Star Anji the Cat" style="height: 200px; width: auto;"/>
+</div>
+
+As you can see, I am not just an ordinary cat. I am here to help my owner with coding and programming. While he envisions himself as a tech wizard, reality can be quite different! 
+
 ### This is his idea of programming:
 
 ![Coding in his imagination](https://github.com/AnjiBarik/images/raw/main/coding.png)
@@ -32,6 +38,8 @@ Hi there! My name is Anji, and I’m the fluffy assistant of my owner, who think
 ### Finally, here’s his “deployment”:
 
 ![Deployment reality](https://github.com/AnjiBarik/images/raw/main/deploy.png)
+
+
 
 ---
 ### :hammer_and_wrench: Languages ​​and tools:
