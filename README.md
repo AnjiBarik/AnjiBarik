@@ -22,31 +22,19 @@ I AnjiBarik, love to write code, create new projects and solve complex problems.
 
 Hi there! My name is Anji, and I’m the fluffy assistant of my owner, who thinks he can become a programmer. He’s got big dreams, but let’s take a closer look at what’s really happening here! 😹
 
-<div style="overflow: hidden;">
-    <img src="https://github.com/AnjiBarik/images/raw/main/starcat.png" alt="Anji the Cat" style="height: 200px; width: auto; float: left; margin-right: 15px;" />
-    <p>This is his idea of programming:</p>
-</div>
+<img src="https://github.com/AnjiBarik/images/raw/main/starcat.png" style="height: 200px; width: auto; float: left; margin-right: 15px;" />
 
-<div style="overflow: hidden; clear: both;">
-    <img src="https://github.com/AnjiBarik/images/raw/main/coding.png" alt="Coding" style="height: 200px; width: auto; float: left; margin-right: 15px;" />
-    <p>And this is what it <em>actually</em> looks like:</p>
-</div>
+### This is his idea of programming:
 
-<div style="text-align: center; clear: both;">
-    <img src="https://github.com/AnjiBarik/images/raw/main/deploy.png" alt="Deployment" style="height: 300px; width: auto; animation: hueRotation 3s infinite alternate;" />
-    <p>Finally, here’s his “deployment”:</p>
-</div>
+<img src="https://github.com/AnjiBarik/images/raw/main/coding.png" style="height: 200px; width: auto; float: left; margin-right: 15px;" />
 
-<style>
-@keyframes hueRotation {
-    0% { filter: hue-rotate(-180deg); }
-    100% { filter: hue-rotate(180deg); }
-}
-</style>
+### And this is what it *actually* looks like:
 
+<img src="https://github.com/AnjiBarik/images/raw/main/mi.png" style="height: 200px; width: auto; float: left; margin-right: 15px;" />
 
+### Finally, here’s his “deployment”:
 
-
+<img src="https://github.com/AnjiBarik/images/raw/main/deploy.png" style="height: 200px; width: auto; float: left; margin-right: 15px;" />
 
 ---
 
