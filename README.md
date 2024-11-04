@@ -34,7 +34,7 @@ Hi there! My name is Anji, and I’m the fluffy assistant of my owner, who think
 
 ### Finally, here’s his “deployment”:
 
-<img src="https://github.com/AnjiBarik/images/raw/main/deploy.gif" style="height: 200px; width: auto; float: left; margin-right: 15px;" />
+<img src="https://github.com/AnjiBarik/images/raw/main/deploygif.gif" style="height: 200px; width: auto; float: left; margin-right: 15px; border-radius: 30px 50px 17px 20px;" />
 
 ###  ~ The End? ~
 
