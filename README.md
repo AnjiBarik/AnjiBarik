@@ -24,28 +24,25 @@ Hi there! My name is Anji, and I’m the fluffy assistant of my owner, who think
 
 <img src="https://github.com/AnjiBarik/images/raw/main/starcat.png" style="height: 200px; width: auto; float: left; margin-right: 15px;" />
 
-### This is his idea of programming:
+This is his idea of programming:
 
 <img src="https://github.com/AnjiBarik/images/raw/main/coding.png" style="height: 200px; width: auto; float: left; margin-right: 15px;" />
 
-### And this is what it *actually* looks like:
+And this is what it *actually* looks like:
 
 <img src="https://github.com/AnjiBarik/images/raw/main/mi.png" style="height: 200px; width: auto; float: left; margin-right: 15px;" />
 
-### Finally, here’s his “deployment”:
+Finally, here’s his “deployment”:
 
 <img src="https://github.com/AnjiBarik/images/raw/main/deploy.png" style="height: 300px; width: auto; display: block; margin: 0 auto; filter: hue-rotate(0deg); animation: hueRotation 2s infinite alternate;" />
 
 <style>
 @keyframes hueRotation {
-    0% {
-        filter: hue-rotate(-180deg);
-    }
-    100% {
-        filter: hue-rotate(180deg);
-    }
+    0% { filter: hue-rotate(-180deg); }
+    100% { filter: hue-rotate(180deg); }
 }
 </style>
+
 ---
 
 ### :hammer_and_wrench: Languages ​​and tools:
