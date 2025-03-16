@@ -38,7 +38,7 @@ Hi there! My name is Anji, and I’m the fluffy assistant of my owner, who think
 
 ###  ~ The End? ~
 
-<img src="https://github.com/AnjiBarik/images/raw/main/catku.gif" style="height: 200px; width: auto; float: left; margin-right: 15px; border-radius: 130px 150px 17px 120px;" />
+<img src="https://github.com/AnjiBarik/images/raw/main/catku.gif" style="height: 160px; width: auto; float: left; margin-right: 15px; border-radius: 130px 150px 17px 120px;" />
 So, dear readers, if you ever need a companion in your own programming *"triumphs and tribulations,"* I’m Anji, the best fluffy sensei to keep you company. Follow my **anime-style reports on "programming life"** and, who knows, maybe one day we’ll all witness the *legend* of a bug-free code! 😼
 
 ---
